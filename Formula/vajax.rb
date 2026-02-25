@@ -2,7 +2,7 @@ class Vajax < Formula
   include Language::Python::Virtualenv
 
   desc "GPU-accelerated analog circuit simulator with Verilog-A support"
-  homepage "https://github.com/ChipFlow/jax-spice"
+  homepage "https://github.com/ChipFlow/vajax"
   url "https://files.pythonhosted.org/packages/source/v/vajax/vajax-0.1.0.tar.gz"
   sha256 "PLACEHOLDER_SHA256"
   license "Apache-2.0"
