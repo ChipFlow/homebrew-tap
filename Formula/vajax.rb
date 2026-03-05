@@ -3,8 +3,8 @@ class Vajax < Formula
 
   desc "GPU-accelerated analog circuit simulator with Verilog-A support"
   homepage "https://github.com/ChipFlow/vajax"
-  url "https://files.pythonhosted.org/packages/source/v/vajax/vajax-0.1.0.tar.gz"
-  sha256 "PLACEHOLDER_SHA256"
+  url "https://files.pythonhosted.org/packages/source/v/vajax/vajax-0.1.5.tar.gz"
+  sha256 "979678bb0db1543a1d70e5239aa9de1e9e035b787ac9d9cef591a7d1df2fd2de"
   license "Apache-2.0"
 
   depends_on "python@3.12"
